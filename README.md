@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Laravel  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Laravel and related technologies  
   
 
 - ⚡ Fun fact:   
