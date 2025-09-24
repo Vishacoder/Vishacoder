@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Vishwa, Web developer 👨‍💻 🚀</div>  
+### <div align="center">I'm Vishwa, Software Developer 👨‍💻 🚀</div>  
   
 
 - 🔭 I’m currently working on [Larvel POS System](https://github.com/Vishacoder/PHP-Laravel-POS-System.git)  
