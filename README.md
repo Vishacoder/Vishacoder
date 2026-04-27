@@ -6,13 +6,13 @@
 ### <div align="center">I'm Vishwa, Software Developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Larvel POS System](https://github.com/Vishacoder/PHP-Laravel-POS-System.git)  
+- 🔭   Software developer at sigma consulting S.r.l Rome Italy 
   
 
-- 🌱 I’m currently learning Laravel  
+- 🌱 Mastering .NET Framework along with Zure and DeVeops
   
 
-- ❓ Ask me about anything related to Laravel and related technologies  
+- ❓ Don't ask me anything  
   
 
 - ⚡ Fun fact:   
