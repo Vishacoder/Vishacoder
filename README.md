@@ -1,22 +1,22 @@
 ## Hey 👋, I'm Vishwa Rankoth!  
   
 
-<a href="https://github.com/https://github.com/Vishacoder" target="_blank">
+<a href="https://github.com/Vishacoder" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishwa-rankoth/" target="_blank">
+<a href="https://linkedin.com/in/vishwa-rankoth" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/vishwa.rankoth1/" target="_blank">
+<a href="https://www.facebook.com/vishwa.rankoth1" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/mr_rude.___/?hl=en" target="_blank">
+<a href="https://instagram.com/mr_rude.___" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/@https://www.youtube.com/@vishwarankoth9918" target="_blank">
+<a href="https://www.youtube.com/@@vishwarankoth9918" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>
-
+</a>  
+  
 
 ### Glad to see you here!  
 Software Developer with professional experience in designing, developing, and
@@ -31,7 +31,6 @@ Skilled in implementing new features, optimizing existing functionality, resolvi
 complex software defects, and collaborating within cross-functional development
 teams.  
 <br/>  
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
@@ -57,10 +56,7 @@ teams.
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" /></a>  
 </div>  
-
 <br/>  
-
-
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -70,21 +66,8 @@ teams.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishacoder&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td></tr></table>  
-
-<br/>  
-
-  
-
+</td></tr></table> 
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Vishacoder&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
