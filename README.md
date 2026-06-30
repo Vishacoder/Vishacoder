@@ -1,5 +1,27 @@
-## Hey 👋, I'm Vishwa Rankoth!  
+
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=87ceeb&size=30&lines=Hey!+Its+Vishwa+Rankoth;Full-stack-Software-Engineer..." alt="Typing SVG">
+    </a>
+</div>
   
+
+
+  
+
+### Glad to see you here!  
+Software Developer with professional experience in designing, developing, and
+enhancing enterprise applications across web and desktop platforms.
+Experienced in C#, .NET, WPF, SQL Server, Laravel, PHP,   and MySQL, with a
+strong background in database-driven applications, content management
+systems, and mission-critical software solutions.
+
+Contributed to the development of aerospace and defense-related systems,
+intelligent drone management platforms, and scalable corporate web applications.
+Skilled in implementing new features, optimizing existing functionality, resolving
+complex software defects, and collaborating within cross-functional development
+teams.  
+<br/>  
 
 <a href="https://github.com/Vishacoder" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -16,21 +38,7 @@
 <a href="https://www.youtube.com/@@vishwarankoth9918" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-  
-
-### Glad to see you here!  
-Software Developer with professional experience in designing, developing, and
-enhancing enterprise applications across web and desktop platforms.
-Experienced in C#, .NET, WPF, SQL Server, Laravel, PHP,   and MySQL, with a
-strong background in database-driven applications, content management
-systems, and mission-critical software solutions.
-
-Contributed to the development of aerospace and defense-related systems,
-intelligent drone management platforms, and scalable corporate web applications.
-Skilled in implementing new features, optimizing existing functionality, resolving
-complex software defects, and collaborating within cross-functional development
-teams.  
-<br/>  
+<br/>
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
