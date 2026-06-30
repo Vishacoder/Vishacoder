@@ -58,16 +58,15 @@ teams.
 </div>  
 <br/>  
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<div align="center">
+<a href="https://github.com/Vishacoder">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishacoder&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishacoder&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishacoder&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishacoder&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishacoder&theme=radical" height="180em" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VishaCoder&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishacoder&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table> 
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Vishacoder&&style=flat-square)  
   
