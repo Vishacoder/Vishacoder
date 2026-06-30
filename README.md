@@ -5,11 +5,9 @@
     </a>
 </div>
   
+<div align="center">
+## Glad to see you here! 
 
-
-  
-
-### Glad to see you here!  
 Software Developer with professional experience in designing, developing, and
 enhancing enterprise applications across web and desktop platforms.
 Experienced in C#, .NET, WPF, SQL Server, Laravel, PHP,   and MySQL, with a
@@ -21,7 +19,13 @@ intelligent drone management platforms, and scalable corporate web applications.
 Skilled in implementing new features, optimizing existing functionality, resolving
 complex software defects, and collaborating within cross-functional development
 teams.  
-<br/>  
+</div>
+
+</br>  
+
+<div align="center">
+
+## 🌐 Socials:
 
 <a href="https://github.com/Vishacoder" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -38,8 +42,15 @@ teams.
 <a href="https://www.youtube.com/@@vishwarankoth9918" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-<br/>
-## Languages and Tools  
+
+</div>
+
+</br>
+
+<div align="center">
+
+## 💻 Tech Stack:
+
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
@@ -64,8 +75,10 @@ teams.
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="25" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" /></a>  
 </div>  
+</div>
+
 <br/>  
-## Github Stats  
+
 <div align="center">
 <a href="https://github.com/Vishacoder">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishacoder&theme=radical" height="180em" />
