@@ -80,12 +80,12 @@ teams.
 <br/>  
 
 <div align="center">
-<a href="https://github.com/Vishacoder">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishacoder&theme=radical" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishacoder&theme=radical" height="180em" />
+//<a href="https://github.com/Vishacoder">
+//<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vishacoder&theme=radical" height="180em" />
+//<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vishacoder&theme=radical" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vishacoder&theme=radical" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishacoder&theme=radical" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishacoder&theme=radical" height="180em" />
+//<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vishacoder&theme=radical" height="180em" />
+//<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vishacoder&theme=radical" height="180em" />
 </div>
 <br/>
 
